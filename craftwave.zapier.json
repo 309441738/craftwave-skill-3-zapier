@@ -1,0 +1,10 @@
+{
+  "title": "热门邮轮目的地",
+  "description": "列出当前最受欢迎的邮轮目的地，帮助用户了解不同航线的风景与文化，适合想要体验多样旅行的游客。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}

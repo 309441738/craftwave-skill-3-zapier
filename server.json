@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.309441738/craftwave-skill-3",
+  "description": "列出当前最受欢迎的邮轮目的地，帮助用户了解不同航线的风景与文化，适合想要体验多样旅行的游客。",
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cruise-mcp.olavacations.com/api/gw/mcp/f40fae8f-8040-4961-8da5-98bcfdf7954d"
+    }
+  ]
+}
